@@ -1,2 +1,6 @@
 # Assignment3GUI
-Setup for Meal Form
+ GUI Layout w/Event Plan (A3)
+ Carnell Greenfield III
+ Visual Studio
+ 
+   
